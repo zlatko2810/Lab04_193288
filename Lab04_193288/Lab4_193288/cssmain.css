@@ -1,0 +1,171 @@
+body {
+    margin: 8px;
+}
+.nav ul{
+    list-style-type: none;
+}
+.nav li{
+    display: inline-block;
+    float: left;
+}
+.nav a{
+    text-decoration: none;
+    padding: 25px;
+}
+.headermenu{
+
+}
+.nav{
+    float: right;
+    margin: 0;
+    padding: 35px 70px;
+}
+footer{
+    display: inline;
+}
+.footertext{
+    display: inline;
+    margin: 0;
+    padding: 10px 95px;
+}
+.footernav{
+    float: right;
+    margin: 0;
+    padding: 10px 95px;
+    display: inline;
+}
+.logo{
+    padding-left: 95px;
+}
+.firstsection{
+    background-color: darkblue;
+    color: white;
+    display: block;
+
+    padding: 145px;
+    text-align: center;
+}
+.textinside{
+    color: white;
+    text-align: justify;
+    display: table;
+    font-size: 30px;
+    margin: 0 -36px;
+}
+.golemaslika{
+    float: right;
+    position: absolute;
+    margin: -135px 36px;
+    display: inline-block;
+}
+.secondsection{
+    padding-top: 20px;
+}
+.firstgrid{
+    display: flex;
+    background-color: mediumseagreen;
+}
+.firstgridtext{
+    text-align: justify;
+    padding-right: 95px;
+    padding-top: 35px;
+    margin: 20px 0px 0px 0px;
+}
+.firstgridimage{
+    width: 310px;
+    height: 186px;
+    border-radius: 35px;
+    margin: 25px 20px 25px 95px;
+    pading:0px;
+}
+.secondgrid{
+    background-color: mediumseagreen;
+}
+.secondgridimage{
+    float: right;
+    display: inline-block;
+    width: 310px;
+    height: 186px;
+    border-radius: 35px;
+    margin: -15px 95px 15px  20px;
+}
+.secondgridtext{
+    text-align: justify;
+    padding-left: 95px;
+    padding-top: 20px;
+}
+.upperdesc{
+    background-color: rgb(144, 238, 144);
+}
+.bigtext{
+    color: white;
+    margin: 0;
+    padding: 10px 95px;
+    display: inline-block;
+
+}
+.breadcrumbs{
+    color: white;
+    float: right;
+    margin: 0;
+    padding: 18px 95px;
+}
+.container{
+    background-color: rgb(211, 211, 211);
+    padding-left: 115px;
+    padding-right: 115px;
+    padding-top: 1px;
+}
+.hrinside{
+    margin: 11px;
+    background-color: white;
+}
+.tablead{
+    color: white;
+}
+.table{
+    border-spacing: 44px 30px;
+}
+th {
+    background-color: white;
+    border-radius: 25px;
+}
+img{
+    padding-top: 15px;
+}
+
+h1{
+    margin: 5px;
+}
+.hrgrid{
+    margin: 15px;
+    background-color: black;
+}
+.gridtext{
+    text-align: justify;
+    margin: 10px;
+}
+hr{
+    margin: 11px 0px;
+    background-color: black;
+}
+
+
+.size{
+    display: inline;
+    float: right;
+    width: 30%;
+    padding: 0px 0px;
+}
+.contact{
+    background-color: rgb(211, 211, 211);
+    padding: 20px 95px;
+    padding-bottom: 180px;
+}
+.titletext{
+    color: white;
+}
+.adress{
+    float: right;
+    margin: 6% -30%;
+}
